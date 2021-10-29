@@ -9,9 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/main.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: e710cfe2edf64b341afb31a9434d0d0a,
+      type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d09548e249d6aae44b16f7d446a8bf8a,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2e69f0e19e9e9d84c833df30832c5484,
       type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: c07aa4fb501f84346bcb5265ba8413d8,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 466ac740c249be04788019e8ca2c7f94,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7eee9e2bfa0d3494d8be8f2a7f3265f1,
       type: 2}
